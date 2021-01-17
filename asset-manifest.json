@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cats-rolodex/static/css/main.50357805.chunk.css",
-    "main.js": "/cats-rolodex/static/js/main.3fb2f29e.chunk.js",
-    "main.js.map": "/cats-rolodex/static/js/main.3fb2f29e.chunk.js.map",
+    "main.js": "/cats-rolodex/static/js/main.bbe992e8.chunk.js",
+    "main.js.map": "/cats-rolodex/static/js/main.bbe992e8.chunk.js.map",
     "runtime-main.js": "/cats-rolodex/static/js/runtime-main.88e4d3cb.js",
     "runtime-main.js.map": "/cats-rolodex/static/js/runtime-main.88e4d3cb.js.map",
     "static/js/2.e2ec6060.chunk.js": "/cats-rolodex/static/js/2.e2ec6060.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.88e4d3cb.js",
     "static/js/2.e2ec6060.chunk.js",
     "static/css/main.50357805.chunk.css",
-    "static/js/main.3fb2f29e.chunk.js"
+    "static/js/main.bbe992e8.chunk.js"
   ]
 }
